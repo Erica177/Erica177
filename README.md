@@ -6,7 +6,7 @@ Open source contributor at Alibaba, working on:
 
 - [Higress](https://github.com/alibaba/higress) — AI Native API Gateway
 - [HiClaw](https://github.com/alibaba/hiclaw) — Collaborative Multi-Agent OS for human-in-the-loop task coordination
-- [istio](https://github.com/istio/istio)
+- [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services
 
 #### Tech Stack
 
