@@ -17,7 +17,7 @@ Open source contributor at Alibaba, working on:
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-smoky-zeta-92.vercel.app/api?username=Erica177&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Jing-ze&theme=tokyonight&hide_border=true&background=00000000" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Erica177&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
 ---
